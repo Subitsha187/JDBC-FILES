@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+body {
+  background-color: #c3f0e8;
+  margin: 0;
+  font-family: 'lobster';
+}
+
+.hero {
+  padding: 2em 35em 2em 35em;
+  text-align: center;
+}
+
+.hello {
+  padding: 2em 35em 2em 35em;
+  text-align: center;
+}
+
+.Myskills {
+  padding: 2em 35em 2em 35em;
+  text-align: center;
+}
+
+.skill {
+  padding: 2em 35em 2em 35em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  place-content: space-between;
+}
+
+.skill img {
+  width: 5cm;
+  height: 5cm;
+}
+
+.cook {
+  padding: 2em 35em 2em 35em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  place-content: space-between;
+}
+
+.cook img {
+  width: 5cm;
+  height: 5cm;
+}
+/*# sourceMappingURL=main.css.map */
